@@ -1,5 +1,7 @@
 #pragma once
 
+//named pipe version
+
 #include <stdio.h>
 #include <Windows.h>
 
