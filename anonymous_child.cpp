@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <Windows.h>
 
-#include "..\CommonFunctions\common_functions.h"
+#include "..\CommonFunctions\common_functions_a.h"
 
 int main(int argc, char* argv[])
 {
