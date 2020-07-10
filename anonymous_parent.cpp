@@ -5,7 +5,7 @@
 #include <Windows.h>
 #include <time.h>
 
-#include "..\CommonFunctions\common_functions.h"
+#include "..\CommonFunctions\common_functions_a.h"
 
 HANDLE childInHandle = NULL;
 HANDLE parentHandle = NULL;
