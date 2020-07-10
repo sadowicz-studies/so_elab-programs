@@ -6,7 +6,7 @@
 #include <Windows.h>
 #include <time.h>
 
-#include "..\CommonFunctions\\common_functions.h"
+#include "..\CommonFunctions\\common_functions_a.h"
 
 DWORD WINAPI WritePipeThread(void* input);
 DWORD WINAPI ReadPipeThread(void* input);
